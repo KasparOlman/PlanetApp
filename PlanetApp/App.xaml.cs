@@ -3,6 +3,8 @@ using Microsoft.UI;
 using Microsoft.UI.Windowing;
 using Windows.Graphics;
 #endif
+using PlanetApp.Views;
+
 namespace PlanetApp;
 
 public partial class App : Application
@@ -29,6 +31,6 @@ public partial class App : Application
 			});
 
 
-		//MainPage = new AppShell();
+		MainPage = new NavigationPage(new StartPage());
 	}
 }

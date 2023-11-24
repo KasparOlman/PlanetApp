@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlanetApp.Views.StartPage"
+             Title="Solar Planets">
+    <ContentPage.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#666" Offset="0.0"/>
+            <GradientStop Color="#000" Offset="1.0"/>
+        </LinearGradientBrush>
+    </ContentPage.Background>
+
+    <Grid>
+        
+        <!--Planets Image-->
+        <Image
+            x:Name="imgEarth"
+            Opacity="0"
+            Source="earth.png"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"
+            TranslationX="-48"
+            TranslationY="148"
+            WidthRequest="96"
+            HeightRequest="96"/>
+
+    </Grid>
+    
+</ContentPage>
