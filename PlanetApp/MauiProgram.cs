@@ -10,7 +10,7 @@ public static class MauiProgram
 			.ConfigureFonts(fonts =>
 			{
 				fonts.AddFont("Monsterrat_Medium.ttf", "RegularRegular");
-				fonts.AddFont("Monsterrat-Semibold.ttf", "MediumFont");
+				fonts.AddFont("Monsterrat-SemiBold.ttf", "MediumFont");
 				fonts.AddFont("Monsterrat-Bold.ttf", "BoldFont");
 			});
 

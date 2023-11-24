@@ -54,4 +54,10 @@
 	  <None Remove="Resources\Fonts\Montserrat-SemiBold.ttf" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	  <Folder Include="Services\" />
+	  <Folder Include="Views\" />
+	</ItemGroup>
+
 </Project>
