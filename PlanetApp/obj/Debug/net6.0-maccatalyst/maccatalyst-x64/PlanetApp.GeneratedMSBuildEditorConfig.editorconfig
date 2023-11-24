@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PlanetApp.Resources.Styles
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/kaspa/OneDrive/Desktop/Kooli asjad/PlanetApp/PlanetApp/PlanetApp/Views/PlanetsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanetApp.Views.PlanetsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PlanetsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PlanetsPage.xaml
+
 [C:/Users/kaspa/OneDrive/Desktop/Kooli asjad/PlanetApp/PlanetApp/PlanetApp/Views/StartPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PlanetApp.Views.StartPage.xaml

@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-24T08:49:30.030</Modified>
+      <Modified>2023-11-24T09:45:43.770</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-24T08:49:29.696</Modified>
+      <Modified>2023-11-24T09:45:43.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.runtimeconfig.json">
       <PackagePath>PlanetApp.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.dll">
       <PackagePath>PlanetApp.dll</PackagePath>
-      <Modified>2023-11-24T08:49:28.389</Modified>
+      <Modified>2023-11-24T09:45:41.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PlanetApp.exe</PackagePath>
-      <Modified>2023-11-24T08:49:28.449</Modified>
+      <Modified>2023-11-24T09:45:41.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.deps.json">
       <PackagePath>PlanetApp.deps.json</PackagePath>
-      <Modified>2023-11-24T08:49:29.478</Modified>
+      <Modified>2023-11-24T09:45:43.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.16\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
