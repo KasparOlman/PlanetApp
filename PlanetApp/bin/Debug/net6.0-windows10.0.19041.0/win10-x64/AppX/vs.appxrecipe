@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-24T08:33:39.194</Modified>
+      <Modified>2023-11-24T08:49:30.030</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-24T08:33:38.862</Modified>
+      <Modified>2023-11-24T08:49:29.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.runtimeconfig.json">
       <PackagePath>PlanetApp.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.dll">
       <PackagePath>PlanetApp.dll</PackagePath>
-      <Modified>2023-11-24T08:33:37.442</Modified>
+      <Modified>2023-11-24T08:49:28.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PlanetApp.exe</PackagePath>
-      <Modified>2023-11-24T08:33:37.495</Modified>
+      <Modified>2023-11-24T08:49:28.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\PlanetApp.deps.json">
       <PackagePath>PlanetApp.deps.json</PackagePath>
-      <Modified>2023-11-24T08:33:38.611</Modified>
+      <Modified>2023-11-24T08:49:29.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.16\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1123,207 +1123,387 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-24T06:44:04.746</Modified>
+      <Modified>2023-11-24T08:46:54.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.341</Modified>
+      <Modified>2023-11-24T08:46:54.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.369</Modified>
+      <Modified>2023-11-24T08:46:54.642</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.395</Modified>
+      <Modified>2023-11-24T08:46:54.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.441</Modified>
+      <Modified>2023-11-24T08:46:54.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.583</Modified>
+      <Modified>2023-11-24T08:46:54.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.934</Modified>
+      <Modified>2023-11-24T08:46:54.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.942</Modified>
+      <Modified>2023-11-24T08:46:54.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.974</Modified>
+      <Modified>2023-11-24T08:46:54.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.949</Modified>
+      <Modified>2023-11-24T08:46:54.474</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.958</Modified>
+      <Modified>2023-11-24T08:46:54.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.887</Modified>
+      <Modified>2023-11-24T08:46:54.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.894</Modified>
+      <Modified>2023-11-24T08:46:54.449</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.927</Modified>
+      <Modified>2023-11-24T08:46:54.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.904</Modified>
+      <Modified>2023-11-24T08:46:54.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.911</Modified>
+      <Modified>2023-11-24T08:46:54.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.794</Modified>
+      <Modified>2023-11-24T08:46:54.398</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.802</Modified>
+      <Modified>2023-11-24T08:46:54.402</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.812</Modified>
+      <Modified>2023-11-24T08:46:54.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.820</Modified>
+      <Modified>2023-11-24T08:46:54.414</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.833</Modified>
+      <Modified>2023-11-24T08:46:54.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.841</Modified>
+      <Modified>2023-11-24T08:46:54.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.848</Modified>
+      <Modified>2023-11-24T08:46:54.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.879</Modified>
+      <Modified>2023-11-24T08:46:54.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.855</Modified>
+      <Modified>2023-11-24T08:46:54.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.862</Modified>
+      <Modified>2023-11-24T08:46:54.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.093</Modified>
+      <Modified>2023-11-24T08:46:54.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.106</Modified>
+      <Modified>2023-11-24T08:46:54.542</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.121</Modified>
+      <Modified>2023-11-24T08:46:54.547</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.142</Modified>
+      <Modified>2023-11-24T08:46:54.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.180</Modified>
+      <Modified>2023-11-24T08:46:54.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.034</Modified>
+      <Modified>2023-11-24T08:46:54.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.043</Modified>
+      <Modified>2023-11-24T08:46:54.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.053</Modified>
+      <Modified>2023-11-24T08:46:54.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.064</Modified>
+      <Modified>2023-11-24T08:46:54.525</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.084</Modified>
+      <Modified>2023-11-24T08:46:54.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.984</Modified>
+      <Modified>2023-11-24T08:46:54.491</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.992</Modified>
+      <Modified>2023-11-24T08:46:54.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.002</Modified>
+      <Modified>2023-11-24T08:46:54.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.010</Modified>
+      <Modified>2023-11-24T08:46:54.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.025</Modified>
+      <Modified>2023-11-24T08:46:54.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.194</Modified>
+      <Modified>2023-11-24T08:46:54.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.210</Modified>
+      <Modified>2023-11-24T08:46:54.580</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.230</Modified>
+      <Modified>2023-11-24T08:46:54.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.260</Modified>
+      <Modified>2023-11-24T08:46:54.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.322</Modified>
+      <Modified>2023-11-24T08:46:54.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.868</Modified>
+      <Modified>2023-11-24T08:46:54.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.890</Modified>
+      <Modified>2023-11-24T08:46:54.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.919</Modified>
+      <Modified>2023-11-24T08:46:54.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-24T06:44:04.963</Modified>
+      <Modified>2023-11-24T08:46:54.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-24T06:44:05.077</Modified>
+      <Modified>2023-11-24T08:46:54.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-100.png">
+      <PackagePath>earth.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-125.png">
+      <PackagePath>earth.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-150.png">
+      <PackagePath>earth.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-200.png">
+      <PackagePath>earth.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\earth.scale-400.png">
+      <PackagePath>earth.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgback.scale-100.png">
+      <PackagePath>imgback.scale-100.png</PackagePath>
+      <Modified>2023-03-04T09:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgexplore.scale-100.png">
+      <PackagePath>imgexplore.scale-100.png</PackagePath>
+      <Modified>2023-03-04T09:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgfavorite.scale-100.png">
+      <PackagePath>imgfavorite.scale-100.png</PackagePath>
+      <Modified>2023-03-04T09:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgmenu.scale-100.png">
+      <PackagePath>imgmenu.scale-100.png</PackagePath>
+      <Modified>2023-03-04T09:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\imgsearch.scale-100.png">
+      <PackagePath>imgsearch.scale-100.png</PackagePath>
+      <Modified>2023-03-04T09:15:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-100.png">
+      <PackagePath>jupiter.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-125.png">
+      <PackagePath>jupiter.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-150.png">
+      <PackagePath>jupiter.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-200.png">
+      <PackagePath>jupiter.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jupiter.scale-400.png">
+      <PackagePath>jupiter.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-100.png">
+      <PackagePath>mars.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-125.png">
+      <PackagePath>mars.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-150.png">
+      <PackagePath>mars.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-200.png">
+      <PackagePath>mars.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mars.scale-400.png">
+      <PackagePath>mars.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-100.png">
+      <PackagePath>mercury.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-125.png">
+      <PackagePath>mercury.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-150.png">
+      <PackagePath>mercury.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-200.png">
+      <PackagePath>mercury.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\mercury.scale-400.png">
+      <PackagePath>mercury.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-100.png">
+      <PackagePath>neptune.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-125.png">
+      <PackagePath>neptune.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-150.png">
+      <PackagePath>neptune.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-200.png">
+      <PackagePath>neptune.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\neptune.scale-400.png">
+      <PackagePath>neptune.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-100.png">
+      <PackagePath>saturn.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-125.png">
+      <PackagePath>saturn.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-150.png">
+      <PackagePath>saturn.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-200.png">
+      <PackagePath>saturn.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\saturn.scale-400.png">
+      <PackagePath>saturn.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-100.png">
+      <PackagePath>uranus.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-125.png">
+      <PackagePath>uranus.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-150.png">
+      <PackagePath>uranus.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-200.png">
+      <PackagePath>uranus.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\uranus.scale-400.png">
+      <PackagePath>uranus.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-100.png">
+      <PackagePath>venus.scale-100.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-125.png">
+      <PackagePath>venus.scale-125.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-150.png">
+      <PackagePath>venus.scale-150.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-200.png">
+      <PackagePath>venus.scale-200.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kaspa\OneDrive\Desktop\Kooli asjad\PlanetApp\PlanetApp\PlanetApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\venus.scale-400.png">
+      <PackagePath>venus.scale-400.png</PackagePath>
+      <Modified>2023-11-24T08:46:54.399</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
